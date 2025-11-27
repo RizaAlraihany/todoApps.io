@@ -14,26 +14,26 @@ Aplikasi web sederhana untuk mengelola produktivitas harian — memungkinkan pen
 
 ## 🚀 Fitur Utama
 
-* ✅ **Manajemen Tugas (CRUD)**
+- ✅ **Manajemen Tugas (CRUD)**
 
-  * Tambah tugas baru dengan target tanggal.
-  * Edit tugas.
-  * Tandai tugas sebagai selesai atau batalkan (undo).
-  * Hapus tugas yang tidak diperlukan (dengan konfirmasi).
+  - Tambah tugas baru dengan target tanggal.
+  - Edit tugas.
+  - Tandai tugas sebagai selesai atau batalkan (undo).
+  - Hapus tugas yang tidak diperlukan (dengan konfirmasi).
 
-* ✅ **Penyimpanan Lokal (Persistent)**
+- ✅ **Penyimpanan Lokal (Persistent)**
 
-  * Data tersimpan otomatis di `localStorage` sehingga tidak hilang saat refresh.
+  - Data tersimpan otomatis di `localStorage` sehingga tidak hilang saat refresh.
 
-* ✅ **Notifikasi Cerdas**
+- ✅ **Notifikasi Cerdas**
 
-  * Menggunakan toast notifications untuk feedback yang halus.
-  * Modal konfirmasi saat penghapusan agar tidak terjadi kesalahan.
+  - Menggunakan toast notifications untuk feedback yang halus.
+  - Modal konfirmasi saat penghapusan agar tidak terjadi kesalahan.
 
-* ✅ **Desain Modern & Responsif**
+- ✅ **Desain Modern & Responsif**
 
-  * Tipografi Poppins, skema warna soft-violet.
-  * Kompatibel dengan Desktop, Tablet, dan Mobile.
+  - Tipografi Poppins, skema warna soft-violet.
+  - Kompatibel dengan Desktop, Tablet, dan Mobile.
 
 ---
 
@@ -92,11 +92,9 @@ cd modern-todo-apps
 
 **Tampilan Desktop / Tablet / Mobile**
 
-
-| Desktop                             | Tablet                         | Mobile                        |
-| ------------------------------------- | --------------------------------------- | ------------------------------------- |
-| ![Desktop](./assets/desktop.png) | ![Tablet](./assets/Tablet.png) | ![Mobile](./assets/Mobile.png) |
-
+| Desktop                          | Tablet                         | Mobile                         |
+| -------------------------------- | ------------------------------ | ------------------------------ |
+| ![Desktop](./assets/desktop.png) | ![Tablet](./assets/tablet.png) | ![Mobile](./assets/mobile.png) |
 
 ---
 
@@ -104,7 +102,7 @@ cd modern-todo-apps
 
 Dibuat oleh:
 
-* 💙 **Riza Alraihany**
+- 💙 **Riza Alraihany**
   🔗 GitHub: [https://github.com/RizaAlraihany](https://github.com/RizaAlraihany)
   🔗 LinkedIn: [https://www.linkedin.com/in/riza-alraihany](https://www.linkedin.com/in/riza-alraihany)
 
@@ -116,11 +114,11 @@ Proyek ini dilisensikan di bawah **MIT License** — bebas digunakan dan dimodif
 
 ---
 
-> *"Produktivitas bukan tentang melakukan banyak hal, tapi melakukan hal yang benar."* 🚀
+> _"Produktivitas bukan tentang melakukan banyak hal, tapi melakukan hal yang benar."_ 🚀
 
 ---
 
 ### Tips Tambahan
 
-* Untuk menambahkan domain kustom di GitHub Pages: buat file `CNAME` berisi domain Anda, lalu atur repository -> Pages -> Custom domain.
-* Jika ingin memisahkan CSS/JS ke file terpisah, gunakan struktur `src/css/style.css` dan `src/js/script.js` lalu link dari `index.html`.
+- Untuk menambahkan domain kustom di GitHub Pages: buat file `CNAME` berisi domain Anda, lalu atur repository -> Pages -> Custom domain.
+- Jika ingin memisahkan CSS/JS ke file terpisah, gunakan struktur `src/css/style.css` dan `src/js/script.js` lalu link dari `index.html`.
