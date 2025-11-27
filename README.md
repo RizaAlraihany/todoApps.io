@@ -103,7 +103,9 @@ cd modern-todo-apps
 Dibuat oleh:
 
 - 💙 **Riza Alraihany**
+  
   🔗 GitHub: [https://github.com/RizaAlraihany](https://github.com/RizaAlraihany)
+  
   🔗 LinkedIn: [https://www.linkedin.com/in/riza-alraihany](https://www.linkedin.com/in/riza-alraihany)
 
 ---
