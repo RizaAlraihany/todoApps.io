@@ -92,15 +92,11 @@ cd modern-todo-apps
 
 **Tampilan Desktop / Tablet / Mobile**
 
-```html
-<!-- Contoh markup untuk menampilkan preview di README (jika GitHub mendukung) -->
-<div style="display:flex; gap:10px; flex-wrap:wrap;">
-  <img src="./assets/Galaxy-Tab-S7-127.0.0.1.png" alt="Tablet View" style="max-width:45%; height:auto;" />
-  <img src="./assets/iPhone-14-Plus-127.0.0.1.png" alt="Mobile View" style="max-width:25%; height:auto;" />
-</div>
-```
 
-> Catatan: Pastikan file gambar ada di folder `assets/` agar preview muncul di GitHub.
+| Desktop                             | Tablet                         | Mobile                        |
+| ------------------------------------- | --------------------------------------- | ------------------------------------- |
+| ![Desktop](./assets/desktop.png) | ![Tablet](./assets/Tablet.png) | ![Mobile](./assets/Mobile.png) |
+
 
 ---
 
